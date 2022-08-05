@@ -11,7 +11,7 @@ Software Engineer || Web Developer
 * ⚡  <a href = "https://www.buymeacoffee.com/LuC9">Buy me a Coffee</a>
 
 <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Adarsh-chaurasia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
