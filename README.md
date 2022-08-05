@@ -8,9 +8,9 @@ Software Engineer || Web Developer
 * ✉️  You can contact me at [aarshmail@gmail.com](mailto:aarshmail@gmail.com)
 * 🧠  Problem Solver
 * 🤝  I'm open to collaborate on Web Dev Projects (Backend preferred)
-* ⚡   Buy me a Coffee <a href = "https://www.buymeacoffee.com/LuC9"></a>
+* ⚡  <a href = "https://www.buymeacoffee.com/LuC9">Buy me a Coffee</a>
 
-<a href="https://www.github.com/Adarsh-chaurasia" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Adarsh-chaurasia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
