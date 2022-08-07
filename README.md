@@ -55,7 +55,8 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 
 <a href="https://github.com/LuC-9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuC-9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
         
+
 ## Watch my contribution graph eaten by the snake🐍
 <p>
-  <img src="https://github.com/udaylunawat/LuC-9/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/LuC-9/LuC-9/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
