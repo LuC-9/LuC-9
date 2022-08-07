@@ -45,9 +45,9 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 ###
 
 <b>My GitHub Stats</b>
-<td>
-     <img align='right' src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&hide=&hide_border=true&theme=tokyonight">
-     </td>
+
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&hide=&hide_border=true&theme=tokyonight">
+  
 
 <a href="http://www.github.com/LuC-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuC-9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
