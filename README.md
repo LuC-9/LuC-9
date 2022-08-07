@@ -2,7 +2,6 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
--------------------------------------------
 
 Software Engineer || Web Developer
 -------------------------------------------
