@@ -45,11 +45,12 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 ###
 
 <b>My GitHub Stats</b>
+ <table><tr>
 <td>
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&hide=&hide_border=true&theme=tokyonight">
          </td> 
 
-<td><a href="http://www.github.com/LuC-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuC-9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
+<td><a href="http://www.github.com/LuC-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuC-9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td></tr></table>
 
 <a href="http://www.github.com/LuC-9"><img src="https://activity-graph.herokuapp.com/graph?username=LuC-9&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
@@ -60,3 +61,7 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 <p>
   <img src="https://github.com/LuC-9/LuC-9/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<div align="center">
+<h2> Show some ❤️ by starring some of the repositories! </h2>
+</div>
+<div align="center">👀<img src="https://visitor-badge.laobi.icu/badge?page_id=LuC-9.visitor-badge&title=This_Page_Has" alt="visitor badge"/> Visitors. Wow! </div>
