@@ -16,17 +16,13 @@ Software Engineer || Web Developer
 src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
          
 ### Now Playing 🎧
-[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/31t3tujid2gzy23vasrbxzq7645u)
-<script src="https://npmcdn.com/spotifyCurrentlyPlaying.js/dist/spotifyCurrentlyPlaying.min.js"></script>   
-         <div id="spotify-widget"></div>
-         
-         SCP({
+[![Spotify](https://npmcdn.com/spotifyCurrentlyPlaying.js/dist/spotifyCurrentlyPlaying.min.js)](({
     selector: '#spotify-widget',
     username: 'LuC-9',
     api_key: '0412c5207cd871412f740b698c0c71c0',
     width: '100%',
     height: '370'
-});
+});)
 
 ### LANGUAGES & TOOLS
 
