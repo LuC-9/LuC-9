@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
          
 ### Now Playing 🎧
 
-[![Spotify](src="https://api.spotify.com/v1/me/player/currently-playing" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer BQAQnDyRKRBltudG9ueAJ0IV9IFF5NWsX7fj1EWcifoKMROtQf1kXUOMeZDcwsxNEzi9FzsoqebOaWDXglxfj17SoA90ZRaO7EM8BsNPKsslXDhXApbZZTU1G1FumhyQqAOm0XIbT0S1D05sjfq3Mv20zX80nWRzaey-l7Zqmwshf0mVP-jDwKqgjGJOHWaW3ZrNPrUc")](https://open.spotify.com/user/31t3tujid2gzy23vasrbxzq7645u)
+<a href="https://api.spotify.com/v1/me/player/currently-playing" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer BQAQnDyRKRBltudG9ueAJ0IV9IFF5NWsX7fj1EWcifoKMROtQf1kXUOMeZDcwsxNEzi9FzsoqebOaWDXglxfj17SoA90ZRaO7EM8BsNPKsslXDhXApbZZTU1G1FumhyQqAOm0XIbT0S1D05sjfq3Mv20zX80nWRzaey-l7Zqmwshf0mVP-jDwKqgjGJOHWaW3ZrNPrUc"></a>
 
 ### LANGUAGES & TOOLS
 
