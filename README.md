@@ -15,7 +15,7 @@ Software Engineer || Web Developer
 <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
          
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31t3tujid2gzy23vasrbxzq7645u&width=600)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/405R4VT3JtoRjcfTe5uuxT?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### LANGUAGES & TOOLS
 
