@@ -46,6 +46,8 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 <div align="center">
  <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+         </div>
+         <div>
   <img src="https://github-profile-trophy.vercel.app/?username=LuC-9&column=8&theme=onedark" />
 </div>
 <br/>
