@@ -28,11 +28,11 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 <p align="left"> <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_aarsh_mishra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aarsh-mishra09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ###
-<details close="true">
+<!--<details close="true">-->
          <summary><b>:gear: &nbsp;My GitHub Stats</b></summary>
  
-<table><td>
-<a href="http://www.github.com/LuC-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuC-9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
+<table>
+<a href="http://www.github.com/LuC-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuC-9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  <td>
 <img  src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&theme=highcontrast" /></td>
   <td><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuC-9&hide=html&layout=compact&theme=highcontrast" /></td></table>
@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
   <img src="https://github-profile-trophy.vercel.app/?username=LuC-9&column=8&theme=onedark" />
 </div>
 <br/>
- </details>  
+ <!--</details>  -->
 
 ## Watch my contribution graph eaten by the snake🐍
 <!--<p>
