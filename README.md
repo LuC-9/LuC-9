@@ -44,6 +44,8 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 
 <a href="#"><img alt="Aarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuC-9&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
 <div align="center">
+ <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   <img src="https://github-profile-trophy.vercel.app/?username=LuC-9&column=8&theme=onedark" />
 </div>
 <br/>
