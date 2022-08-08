@@ -17,6 +17,11 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
          
 ### Now Playing 🎧
 [![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/31t3tujid2gzy23vasrbxzq7645u)
+         
+GET /v1/me/player/currently-playing HTTP/1.1
+Content-Type: application/json
+Authorization: BQBuslYm7BHlId_TutmPtI68IvY2I_9rsMPR_JKlZa2EszkyVln8h2VYPHFxJ26UzUS8D5kcmiOIMje3mtQYEO85qr2-Io9h9S_RI9X_6IhNchN2Q1MgfA8crVxoA13xBUTSEe2AiSqdZQxiTVU_K5ksW_CXZ5UKYcAuwWom7KGQsBITwta1CKVHymTbBhoezptCM6cN
+Host: api.spotify.com       
 
 ### LANGUAGES & TOOLS
 
