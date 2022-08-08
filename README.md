@@ -15,14 +15,7 @@ Software Engineer || Web Developer
 <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
          
-### Now Playing 🎧
-[![Spotify](https://npmcdn.com/spotifyCurrentlyPlaying.js/dist/spotifyCurrentlyPlaying.min.js)](({
-    selector: '#spotify-widget',
-    username: 'LuC-9',
-    api_key: '0412c5207cd871412f740b698c0c71c0',
-    width: '100%',
-    height: '370'
-});)
+
 
 ### LANGUAGES & TOOLS
 
