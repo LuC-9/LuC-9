@@ -1,4 +1,4 @@
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=header)
 <h1>Hi, I'm Aarsh Mishra <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
