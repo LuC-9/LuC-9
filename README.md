@@ -31,15 +31,12 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
          <summary><b>:gear: &nbsp;My GitHub Stats</b></summary>
  
 
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&hide=&hide_border=true&theme=tokyonight">
-         <a href="http://www.github.com/LuC-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuC-9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-<a href="http://www.github.com/LuC-9"><img src="https://activity-graph.herokuapp.com/graph?username=LuC-9&custom_title=GitHub%20Commits%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" alt="GitHub Commits Graph" /></a>
-
+         <a href="http://www.github.com/LuC-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuC-9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=highcontrast" /></a>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuC-9&hide=html&layout=compact&theme=highcontrast" />
+<a href="http://www.github.com/LuC-9"><img src="https://activity-graph.herokuapp.com/graph?username=LuC-9&custom_title=GitHub%20Commits%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" alt="GitHub Commits Graph" /></a>
+
+
 <div align="center">
  <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
