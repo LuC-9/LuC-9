@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 
 ###
 <details close="true">
-<b>My GitHub Stats</b>
+         <summary><b>:gear: &nbsp;My GitHub Stats</b></summary>
  <table><tr>
 <td>
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&hide=&hide_border=true&theme=tokyonight">
