@@ -14,6 +14,10 @@ Software Engineer || Web Developer
 
 <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+         
+### Now Playing 🎧
+
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/31t3tujid2gzy23vasrbxzq7645u)
 
 ### LANGUAGES & TOOLS
 
