@@ -58,14 +58,14 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
         
 
 ## Watch my contribution graph eaten by the snake🐍
-<p>
+<!--<p>
   <img src="https://github.com/LuC-9/LuC-9/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p>-->
 
  <div align="center">
  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/LuC-9/LuC-9/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/LuC-9/LuC-9/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
   
 </div>
 <div align="center">
