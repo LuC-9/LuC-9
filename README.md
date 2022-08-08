@@ -1,3 +1,4 @@
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 <h1>Hi, I'm Aarsh Mishra <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -67,3 +68,4 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 <h2> Show some ❤️ by starring some of the repositories! </h2>
 </div>
 <div align="center">👀<img src="https://visitor-badge.laobi.icu/badge?page_id=LuC-9.visitor-badge&title=This_Page_Has" alt="visitor badge"/> Visitors. Wow! </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
