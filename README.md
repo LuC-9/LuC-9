@@ -61,6 +61,13 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 <p>
   <img src="https://github.com/LuC-9/LuC-9/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+ <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
 <div align="center">
 <h2> Show some ❤️ by starring some of the repositories! </h2>
 </div>
