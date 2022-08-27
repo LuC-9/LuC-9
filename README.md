@@ -18,6 +18,9 @@ Software Engineer || Web Developer
 
 <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="aarsh-mishra09" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aarsh-mishra09?trk=profile-badge">Aarsh Mishra</a></div>
+              
    
 ### LANGUAGES & TOOLS
 
