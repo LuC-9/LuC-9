@@ -10,7 +10,7 @@
 Software Engineer || Web Developer
 -------------------------------------------
 
-* 👽  <a href = "https://www.byluc.in">Portfolio</a>
+
 * 🌍  India, UP
 * ✉️  You can contact me at [aarshmail@gmail.com](mailto:aarshmail@gmail.com)
 * 🧠  Problem Solver
@@ -32,7 +32,8 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp <a href="http://www.instagram.com/_aarsh_mishra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-&nbsp <a href="https://www.linkedin.com/in/aarsh-mishra09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+&nbsp <a href="https://www.linkedin.com/in/aarsh-mishra09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+         * 👽  <a href = "https://www.byluc.in">Portfolio</a></p>
 
 ### My GitHub Stats
 <!--<details close="true">
