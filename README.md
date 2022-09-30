@@ -10,11 +10,12 @@
 Software Engineer || Web Developer
 -------------------------------------------
 
+* 👽  <a href = "https://www.byluc.in">Portfolio</a>
 * 🌍  India, UP
 * ✉️  You can contact me at [aarshmail@gmail.com](mailto:aarshmail@gmail.com)
 * 🧠  Problem Solver
 * 🤝  I'm open to collaborate on Web Dev Projects
- * ⚡  <a href = "https://www.buymeacoffee.com/LuC9">Buy me a Coffee</a>
+* ⚡  <a href = "https://www.buymeacoffee.com/LuC9">Buy me a Coffee</a>
 
 <a href="https://www.github.com/LuC-9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
