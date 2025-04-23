@@ -36,8 +36,8 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
          <br>  <strong>👽  <a href = "https://www.byluc.in" target="_blank" rel ="noopener npreferrer">Portfolio</a> </strong></p>
 
 ### My GitHub Stats
-<!--<details close="true">
-         <summary><b>:gear: &nbsp;My GitHub Stats</b></summary>-->
+<details close="true">
+         <summary><b>:gear: &nbsp;My GitHub Stats</b></summary>
 
  
 <table>
@@ -45,6 +45,7 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
  <td>
 <img  src="https://github-readme-stats.vercel.app/api?username=LuC-9&show_icons=true&theme=highcontrast" /></td>
   <td><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuC-9&hide=html&layout=compact&theme=highcontrast" /></td></table>
+  
 <a href="http://www.github.com/LuC-9"><img src="https://activity-graph.herokuapp.com/graph?username=LuC-9&custom_title=GitHub%20Commits%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" alt="GitHub Commits Graph" /></a>
 
 
@@ -65,9 +66,9 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
  <!--</details>  -->
 
 ## Watch my contribution graph eaten by the snake🐍
-<!--<p>
+<p>
   <img src="https://github.com/LuC-9/LuC-9/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>-->
+</p>
 
  <div align="center">
  
