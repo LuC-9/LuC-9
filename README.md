@@ -73,7 +73,7 @@ src="https://img.shields.io/github/followers/LuC-9?logo=github&style=for-the-bad
  <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/LuC-9/LuC-9/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/LuC-9/LuC-9/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+<!--![github contribution grid snake animation](https://raw.githubusercontent.com/LuC-9/LuC-9/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only) -->
   
 </div>
          <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
