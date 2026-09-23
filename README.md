@@ -1,17 +1,16 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg?v=3" width="100%" alt="Aarsh Mishra Header Banner" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg?cachebust=fellow_dev_2026" width="100%" alt="Aarsh Mishra Header Banner" />
 
   <br/><br/>
 
   <a href="https://byluc.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Fellow+Developer+%26+Open+Source+Creator;Building+Clean%2C+Resilient+Software;Backend+Microservices+%26+Distributed+Systems;Cross-Platform+Desktop+Developer+(C%23%2C+Swift);Author+of+Flip+Clock+Screensaver" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Fellow+Developer+%26+Open+Source+Creator;Building+Clean%2C+Resilient+Software;Backend+Microservices+%26+APIs;Cross-Platform+Desktop+Developer+(C%23%2C+Swift)" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
     <a href="https://byluc.in"><img src="https://img.shields.io/badge/Portfolio-byluc.in-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/aarsh-mishra09/"><img src="https://img.shields.io/badge/LinkedIn-aarsh--mishra09-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:aarshmail@gmail.com"><img src="https://img.shields.io/badge/Email-aarshmail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/LuC-9/flip-clock-screensaver/releases/latest"><img src="https://img.shields.io/badge/Flip_Clock-Release_v1.0.0-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Latest Release" /></a>
   </p>
 </div>
 
@@ -20,8 +19,8 @@
 ### 🚀 About Me
 
 - 💻 **Fellow Developer & Builder:** Passionate about crafting clean, modular software, intuitive desktop tools, and reliable backends.
-- ⚡ **Backend & Distributed Systems:** Building resilient microservices, robust APIs, and data contracts using **Go**, **Java / Spring Boot**, and **PostgreSQL**.
-- 🖥️ **Cross-Platform Desktop Engineering:** Author of native desktop applications across **Windows** (C# / WinForms / GDI+) and **macOS** (Swift / AppKit / ScreenSaver).
+- ⚡ **Backend & Distributed Systems:** Building resilient microservices, robust APIs, and structured data contracts using **Go**, **Java / Spring Boot**, and **PostgreSQL**.
+- 🖥️ **Cross-Platform Desktop Engineering:** Developing native systems applications across **Windows** (C# / WinForms / GDI+) and **macOS** (Swift / AppKit / ScreenSaver).
 - 🐳 **Containerization & Automation:** Streamlining development workflows and automated toolchains with **Docker** and modern CI/CD.
 - 🌐 Explore my full interactive digital garden and essays at [**byluc.in**](https://byluc.in).
 
@@ -84,7 +83,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/LuC-9/Arduino-cli-Docker">
-        <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/arduino-docker.svg?v=3" width="100%" alt="Arduino CLI Docker Terminal" style="border-radius: 8px; max-height: 220px; object-fit: contain;" />
+        <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/arduino-docker.svg?cachebust=2026" width="100%" alt="Arduino CLI Docker Terminal" style="border-radius: 8px; max-height: 220px; object-fit: contain;" />
       </a>
       <h3 align="center">🐳 <a href="https://github.com/LuC-9/Arduino-cli-Docker">Arduino CLI Docker Toolchain</a></h3>
       <p align="center">
@@ -170,5 +169,5 @@
   <p>💬 Interested in collaborating, building exciting tools, or just connecting? Reach out via <a href="https://www.linkedin.com/in/aarsh-mishra09/"><strong>LinkedIn</strong></a> or <a href="mailto:aarshmail@gmail.com"><strong>Email</strong></a>!</p>
   <p>✨ <em>Crafted with care by a fellow developer &bull; <a href="https://byluc.in"><strong>Aarsh Mishra</strong></a></em></p>
 
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?v=3" width="100%" alt="Footer Wave Divider" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?cachebust=2026" width="100%" alt="Footer Wave Divider" />
 </div>
