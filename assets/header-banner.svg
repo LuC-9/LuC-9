@@ -46,9 +46,9 @@
   <!-- Centered Hero Typography -->
   <g text-anchor="middle" filter="url(#shadow)">
     <!-- Subtitle Pill / Badge -->
-    <rect x="310" y="25" width="280" height="26" rx="13" fill="#1f293d" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.6"/>
+    <rect x="340" y="25" width="220" height="26" rx="13" fill="#1f293d" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.6"/>
     <text x="450" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif" font-size="11" font-weight="700" fill="#38BDF8" letter-spacing="1.5">
-      SENIOR PLATFORM &amp; SYSTEMS ENGINEER
+      FELLOW DEVELOPER
     </text>
 
     <!-- Main Title -->
@@ -58,7 +58,7 @@
 
     <!-- Descriptor / Specialties -->
     <text x="450" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace" font-size="13" font-weight="500" fill="#94A3B8" letter-spacing="1">
-      Cloud-Native Architecture &#8226; Kubernetes &amp; GitOps &#8226; Desktop Systems
+      Backend Microservices &#8226; Cross-Platform Systems &#8226; Open-Source Creator
     </text>
   </g>
 </svg>

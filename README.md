@@ -1,10 +1,10 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg" width="100%" alt="Aarsh Mishra Header Banner" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg?v=3" width="100%" alt="Aarsh Mishra Header Banner" />
 
   <br/><br/>
 
   <a href="https://byluc.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Senior+Platform+%26+Systems+Engineer+@+Nagarro;Kubernetes+%26+GitOps+Practitioner;High-Throughput+Backend+Microservices+(Go%2C+Java);Cross-Platform+Desktop+Developer+(C%23%2C+Swift);Creator+of+Flip+Clock+Screensaver" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Fellow+Developer+%26+Open+Source+Creator;Building+Clean%2C+Resilient+Software;Backend+Microservices+%26+Distributed+Systems;Cross-Platform+Desktop+Developer+(C%23%2C+Swift);Author+of+Flip+Clock+Screensaver" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
@@ -19,10 +19,10 @@
 
 ### 🚀 About Me
 
-- 🏢 **Senior Platform Engineer** at **Nagarro**, architecting Internal Developer Platforms (IDP), GitOps delivery pipelines, and resilient cloud-native tooling.
-- ☸️ **Cloud-Native & Distributed Systems:** Production-grade orchestration with **Kubernetes**, **ArgoCD**, **Crossplane**, and **Docker**.
-- ⚡ **Backend & High-Throughput Services:** Crafting robust microservices and reliable REST contracts with **Go**, **Java / Spring Boot**, and **PostgreSQL**.
-- 🖥️ **Cross-Platform Desktop Engineering:** Author of native systems applications across **Windows** (C# / WinForms / GDI+) and **macOS** (Swift / AppKit / ScreenSaver).
+- 💻 **Fellow Developer & Builder:** Passionate about crafting clean, modular software, intuitive desktop tools, and reliable backends.
+- ⚡ **Backend & Distributed Systems:** Building resilient microservices, robust APIs, and data contracts using **Go**, **Java / Spring Boot**, and **PostgreSQL**.
+- 🖥️ **Cross-Platform Desktop Engineering:** Author of native desktop applications across **Windows** (C# / WinForms / GDI+) and **macOS** (Swift / AppKit / ScreenSaver).
+- 🐳 **Containerization & Automation:** Streamlining development workflows and automated toolchains with **Docker** and modern CI/CD.
 - 🌐 Explore my full interactive digital garden and essays at [**byluc.in**](https://byluc.in).
 
 ---
@@ -83,10 +83,10 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/LuC-9/docker-arduino-cli">
-        <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/arduino-docker.svg" width="100%" alt="Arduino CLI Docker Terminal" style="border-radius: 8px; max-height: 220px; object-fit: contain;" />
+      <a href="https://github.com/LuC-9/Arduino-cli-Docker">
+        <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/arduino-docker.svg?v=3" width="100%" alt="Arduino CLI Docker Terminal" style="border-radius: 8px; max-height: 220px; object-fit: contain;" />
       </a>
-      <h3 align="center">🐳 <a href="https://github.com/LuC-9/docker-arduino-cli">Arduino CLI Docker Toolchain</a></h3>
+      <h3 align="center">🐳 <a href="https://github.com/LuC-9/Arduino-cli-Docker">Arduino CLI Docker Toolchain</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
@@ -94,7 +94,7 @@
       </p>
       <p>Pre-packaged containerized toolchain enabling headless compilation, linting, and automated verification of IoT and Arduino firmware sketches directly inside modern CI/CD pipelines.</p>
       <p align="center">
-        <a href="https://github.com/LuC-9/docker-arduino-cli"><strong>📦 GitHub Repo</strong></a>
+        <a href="https://github.com/LuC-9/Arduino-cli-Docker"><strong>📦 GitHub Repo</strong></a>
       </p>
     </td>
   </tr>
@@ -106,7 +106,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,java,cs,swift,py,bash,k8s,docker,argocd,jenkins,linux,spring,nextjs,nodejs,express,tailwind,postgres,redis,mysql&theme=dark&perline=11" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=go,ts,js,java,cs,swift,py,bash,docker,linux,spring,nextjs,nodejs,express,tailwind,postgres,redis,mysql&theme=dark&perline=9" alt="Skill Icons" />
   </a>
 </div>
 
@@ -129,14 +129,11 @@
   </p>
 
   <p align="left">
-    <strong>Cloud, Platforms & GitOps:</strong><br/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    <strong>Platforms, Tooling & Automation:</strong><br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitOps-000000?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </p>
 
   <p align="left">
@@ -170,8 +167,8 @@
 ---
 
 <div align="center">
-  <p>💬 Interested in collaborating, discussing platform engineering, or just connecting? Reach out via <a href="https://www.linkedin.com/in/aarsh-mishra09/"><strong>LinkedIn</strong></a> or <a href="mailto:aarshmail@gmail.com"><strong>Email</strong></a>!</p>
-  <p>✨ <em>Crafted with care by <a href="https://byluc.in"><strong>Aarsh Mishra</strong></a></em></p>
+  <p>💬 Interested in collaborating, building exciting tools, or just connecting? Reach out via <a href="https://www.linkedin.com/in/aarsh-mishra09/"><strong>LinkedIn</strong></a> or <a href="mailto:aarshmail@gmail.com"><strong>Email</strong></a>!</p>
+  <p>✨ <em>Crafted with care by a fellow developer &bull; <a href="https://byluc.in"><strong>Aarsh Mishra</strong></a></em></p>
 
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg" width="100%" alt="Footer Wave Divider" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?v=3" width="100%" alt="Footer Wave Divider" />
 </div>
