@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg?cachebust=fellow_dev_2026" width="100%" alt="Aarsh Mishra Header Banner" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg?cachebust=animated_waves_v1" width="100%" alt="Aarsh Mishra Header Banner" />
 
   <br/><br/>
 
@@ -169,5 +169,5 @@
   <p>💬 Interested in collaborating, building exciting tools, or just connecting? Reach out via <a href="https://www.linkedin.com/in/aarsh-mishra09/"><strong>LinkedIn</strong></a> or <a href="mailto:aarshmail@gmail.com"><strong>Email</strong></a>!</p>
   <p>✨ <em>Crafted with care by a fellow developer &bull; <a href="https://byluc.in"><strong>Aarsh Mishra</strong></a></em></p>
 
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?cachebust=2026" width="100%" alt="Footer Wave Divider" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?cachebust=animated_waves_v1" width="100%" alt="Footer Wave Divider" />
 </div>
