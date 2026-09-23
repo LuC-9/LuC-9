@@ -6,50 +6,54 @@
     </linearGradient>
 
     <linearGradient id="footerWave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35"/>
-      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.35"/>
     </linearGradient>
 
     <linearGradient id="footerWave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.2"/>
-      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.2"/>
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.25"/>
     </linearGradient>
 
     <clipPath id="footerClip">
       <rect width="900" height="80" rx="12"/>
     </clipPath>
-
-    <style>
-      @keyframes moveFooterWave1 {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(-900px); }
-      }
-      @keyframes moveFooterWave2 {
-        0% { transform: translateX(-900px); }
-        100% { transform: translateX(0); }
-      }
-      .footer-wave-1 {
-        animation: moveFooterWave1 10s linear infinite;
-      }
-      .footer-wave-2 {
-        animation: moveFooterWave2 15s linear infinite;
-      }
-    </style>
   </defs>
 
   <g clip-path="url(#footerClip)">
     <rect width="900" height="80" fill="url(#footerBg)"/>
 
+    <!-- SMIL Moving/Undulating Waves -->
     <!-- Wave Layer 2 (Back) -->
-    <g class="footer-wave-2">
-      <path d="M0,25 C200,50 350,15 550,35 C720,55 820,20 900,25 C1100,50 1250,15 1450,35 C1620,55 1720,20 1800,25 L1800,80 L0,80 Z" fill="url(#footerWave2)"/>
-    </g>
+    <path fill="url(#footerWave2)">
+      <animate
+        attributeName="d"
+        dur="10s"
+        repeatCount="indefinite"
+        calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+        values="
+          M0 80 L0 30 Q225 60 450 35 T900 50 L900 80 Z;
+          M0 80 L0 45 Q225 20 450 50 T900 25 L900 80 Z;
+          M0 80 L0 25 Q225 50 450 25 T900 55 L900 80 Z;
+          M0 80 L0 30 Q225 60 450 35 T900 50 L900 80 Z" />
+    </path>
 
     <!-- Wave Layer 1 (Front) -->
-    <g class="footer-wave-1">
-      <path d="M0,35 C150,55 280,20 450,40 C620,60 750,30 900,35 C1050,55 1180,20 1350,40 C1520,60 1650,30 1800,35 L1800,80 L0,80 Z" fill="url(#footerWave1)"/>
-    </g>
+    <path fill="url(#footerWave1)">
+      <animate
+        attributeName="d"
+        dur="7s"
+        repeatCount="indefinite"
+        calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+        values="
+          M0 80 L0 45 Q225 15 450 45 T900 30 L900 80 Z;
+          M0 80 L0 25 Q225 55 450 20 T900 50 L900 80 Z;
+          M0 80 L0 50 Q225 30 450 48 T900 20 L900 80 Z;
+          M0 80 L0 45 Q225 15 450 45 T900 30 L900 80 Z" />
+    </path>
   </g>
 </svg>
