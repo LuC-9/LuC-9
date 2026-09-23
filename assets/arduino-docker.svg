@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2496ED" />
+      <stop offset="50%" stop-color="#00979D" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+  <rect width="796" height="236" x="2" y="2" rx="12" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2"/>
+  
+  <!-- Header / Window dots -->
+  <circle cx="28" cy="26" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="26" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="26" r="6" fill="#27c93f"/>
+  <text x="100" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8b949e" font-weight="600">docker-arduino-cli • automated firmware ci/cd</text>
+  
+  <!-- Terminal Content -->
+  <g font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="14">
+    <text x="32" y="75" fill="#38BDF8">$ <tspan fill="#e6edf3">docker run --rm -v C:\Users\LuC\FliqloClock:/workspace </tspan><tspan fill="#00979D">luc9/arduino-cli</tspan></text>
+    <text x="32" y="105" fill="#7ee787">✔ <tspan fill="#8b949e">Core installed:</tspan> <tspan fill="#e6edf3">arduino:avr @ 1.8.6</tspan></text>
+    <text x="32" y="132" fill="#7ee787">✔ <tspan fill="#8b949e">Compiling sketch:</tspan> <tspan fill="#e6edf3">SensorsNode.ino (fqbn: arduino:avr:uno)</tspan></text>
+    <text x="32" y="159" fill="#7ee787">✔ <tspan fill="#8b949e">Binary size:</tspan> <tspan fill="#58a6ff">14,288 bytes (44% Flash, 31% RAM)</tspan></text>
+    <text x="32" y="195" fill="#00979D" font-weight="700">⚡ CI/CD Build Passed in 3.42s <tspan fill="#8b949e">[0 errors, 0 warnings]</tspan></text>
+  </g>
+</svg>
