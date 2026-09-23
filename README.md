@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg?cachebust=smil_waves_v2" width="100%" alt="Aarsh Mishra Header Banner" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg?cachebust=smooth_water_waves_v3" width="100%" alt="Aarsh Mishra Header Banner" />
 
   <br/><br/>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,ts,js,bash,fastapi,spring,nodejs,graphql,react,nextjs,tailwind,k8s,docker,aws,gcp,argocd,postgres,mysql,mongodb,sqlite,redis&theme=dark&perline=11" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=py,java,ts,js,bash,fastapi,spring,nodejs,graphql,react,nextjs,tailwind,k8s,docker,aws,gcp,git,postgres,mysql,mongodb,sqlite,redis&theme=dark&perline=11" alt="Skill Icons" />
   </a>
 </div>
 
@@ -189,5 +189,5 @@
   <p>💬 Interested in collaborating, building exciting tools, or just connecting? Reach out via <a href="https://www.linkedin.com/in/aarsh-mishra09/"><strong>LinkedIn</strong></a> or <a href="mailto:aarshmail@gmail.com"><strong>Email</strong></a>!</p>
   <p>✨ <em>Crafted with care by a fellow developer &bull; <a href="https://byluc.in"><strong>Aarsh Mishra</strong></a></em></p>
 
-  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?cachebust=smil_waves_v2" width="100%" alt="Footer Wave Divider" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?cachebust=smooth_water_waves_v3" width="100%" alt="Footer Wave Divider" />
 </div>

@@ -12,16 +12,23 @@
       <stop offset="100%" stop-color="#C084FC"/>
     </linearGradient>
 
-    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45"/>
-      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.35"/>
+    <!-- Oceanic Aqua & Electric Indigo Wave Gradients -->
+    <linearGradient id="wave1Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#3A7BD5" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.45"/>
     </linearGradient>
 
-    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.25"/>
-      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.25"/>
+    <linearGradient id="wave2Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#2A52BE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00C9FF" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <linearGradient id="wave3Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#C084FC" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0.2"/>
     </linearGradient>
 
     <radialGradient id="glowLeft" cx="20%" cy="30%" r="50%">
@@ -49,51 +56,57 @@
     <rect width="900" height="200" fill="url(#glowLeft)"/>
     <rect width="900" height="200" fill="url(#glowRight)"/>
 
-    <!-- SMIL Moving/Undulating Waves -->
-    <!-- Wave Layer 2 (Back) -->
-    <path fill="url(#waveGrad2)">
-      <animate
-        attributeName="d"
-        dur="12s"
-        repeatCount="indefinite"
-        calcMode="spline"
-        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
-        values="
-          M0 200 L0 150 Q225 185 450 155 T900 170 L900 200 Z;
-          M0 200 L0 170 Q225 135 450 175 T900 145 L900 200 Z;
-          M0 200 L0 140 Q225 170 450 145 T900 180 L900 200 Z;
-          M0 200 L0 150 Q225 185 450 155 T900 170 L900 200 Z" />
-    </path>
+    <!-- Wave 3 (Deepest / Slow Tide - 22s period) -->
+    <g>
+      <path d="M 0,162 C 150,142 300,182 450,162 C 600,142 750,182 900,162 C 1050,142 1200,182 1350,162 C 1500,142 1650,182 1800,162 L 1800,200 L 0,200 Z" fill="url(#wave3Grad)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="0,0"
+          to="-900,0"
+          dur="24s"
+          repeatCount="indefinite" />
+      </path>
+    </g>
 
-    <!-- Wave Layer 1 (Front Main) -->
-    <path fill="url(#waveGrad1)">
-      <animate
-        attributeName="d"
-        dur="8s"
-        repeatCount="indefinite"
-        calcMode="spline"
-        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
-        values="
-          M0 200 L0 165 Q225 130 450 165 T900 150 L900 200 Z;
-          M0 200 L0 145 Q225 180 450 140 T900 175 L900 200 Z;
-          M0 200 L0 175 Q225 145 450 170 T900 140 L900 200 Z;
-          M0 200 L0 165 Q225 130 450 165 T900 150 L900 200 Z" />
-    </path>
+    <!-- Wave 2 (Middle Swell - 16s period) -->
+    <g>
+      <path d="M 0,170 C 120,150 240,190 450,168 C 660,146 780,186 900,170 C 1020,150 1140,190 1350,168 C 1560,146 1680,186 1800,170 L 1800,200 L 0,200 Z" fill="url(#wave2Grad)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="-900,0"
+          to="0,0"
+          dur="18s"
+          repeatCount="indefinite" />
+      </path>
+    </g>
 
-    <!-- Wave Layer 3 (Accent Crest) -->
-    <path fill="#38BDF8" opacity="0.25">
-      <animate
-        attributeName="d"
-        dur="6s"
-        repeatCount="indefinite"
-        calcMode="spline"
-        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
-        values="
-          M0 200 L0 180 Q225 160 450 180 T900 165 L900 200 Z;
-          M0 200 L0 168 Q225 190 450 165 T900 182 L900 200 Z;
-          M0 200 L0 185 Q225 162 450 188 T900 160 L900 200 Z;
-          M0 200 L0 180 Q225 160 450 180 T900 165 L900 200 Z" />
-    </path>
+    <!-- Wave 1 (Foreground Water Crest - 12s period) -->
+    <g>
+      <path d="M 0,176 C 150,158 300,194 450,176 C 600,158 750,194 900,176 C 1050,158 1200,194 1350,176 C 1500,158 1650,194 1800,176 L 1800,200 L 0,200 Z" fill="url(#wave1Grad)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="0,0"
+          to="-900,0"
+          dur="13s"
+          repeatCount="indefinite" />
+      </path>
+    </g>
+
+    <!-- Ambient Top Water Surface Highlight -->
+    <g>
+      <path d="M 0,182 C 225,170 225,194 450,182 C 675,170 675,194 900,182 C 1125,170 1125,194 1350,182 C 1575,170 1575,194 1800,182 L 1800,200 L 0,200 Z" fill="#00FFFF" opacity="0.15">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="-900,0"
+          to="0,0"
+          dur="10s"
+          repeatCount="indefinite" />
+      </path>
+    </g>
 
     <!-- Glowing Border -->
     <rect width="896" height="196" x="2" y="2" rx="14" fill="none" stroke="url(#textGrad)" stroke-width="1.2" stroke-opacity="0.45"/>

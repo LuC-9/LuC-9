@@ -2,19 +2,20 @@
   <defs>
     <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="50%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
 
-    <linearGradient id="footerWave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45"/>
-      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.35"/>
+    <linearGradient id="fWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#3A7BD5" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.4"/>
     </linearGradient>
 
-    <linearGradient id="footerWave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.25"/>
-      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.25"/>
+    <linearGradient id="fWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#2A52BE" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00C9FF" stop-opacity="0.3"/>
     </linearGradient>
 
     <clipPath id="footerClip">
@@ -25,35 +26,30 @@
   <g clip-path="url(#footerClip)">
     <rect width="900" height="80" fill="url(#footerBg)"/>
 
-    <!-- SMIL Moving/Undulating Waves -->
-    <!-- Wave Layer 2 (Back) -->
-    <path fill="url(#footerWave2)">
-      <animate
-        attributeName="d"
-        dur="10s"
-        repeatCount="indefinite"
-        calcMode="spline"
-        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
-        values="
-          M0 80 L0 30 Q225 60 450 35 T900 50 L900 80 Z;
-          M0 80 L0 45 Q225 20 450 50 T900 25 L900 80 Z;
-          M0 80 L0 25 Q225 50 450 25 T900 55 L900 80 Z;
-          M0 80 L0 30 Q225 60 450 35 T900 50 L900 80 Z" />
-    </path>
+    <!-- Wave 2 (Slow / Back) -->
+    <g>
+      <path d="M 0,38 C 150,22 300,54 450,38 C 600,22 750,54 900,38 C 1050,22 1200,54 1350,38 C 1500,22 1650,54 1800,38 L 1800,80 L 0,80 Z" fill="url(#fWave2)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="-900,0"
+          to="0,0"
+          dur="18s"
+          repeatCount="indefinite" />
+      </path>
+    </g>
 
-    <!-- Wave Layer 1 (Front) -->
-    <path fill="url(#footerWave1)">
-      <animate
-        attributeName="d"
-        dur="7s"
-        repeatCount="indefinite"
-        calcMode="spline"
-        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
-        values="
-          M0 80 L0 45 Q225 15 450 45 T900 30 L900 80 Z;
-          M0 80 L0 25 Q225 55 450 20 T900 50 L900 80 Z;
-          M0 80 L0 50 Q225 30 450 48 T900 20 L900 80 Z;
-          M0 80 L0 45 Q225 15 450 45 T900 30 L900 80 Z" />
-    </path>
+    <!-- Wave 1 (Front Crest) -->
+    <g>
+      <path d="M 0,46 C 120,32 240,60 450,44 C 660,28 780,56 900,46 C 1020,32 1140,60 1350,44 C 1560,28 1680,56 1800,46 L 1800,80 L 0,80 Z" fill="url(#fWave1)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="0,0"
+          to="-900,0"
+          dur="12s"
+          repeatCount="indefinite" />
+      </path>
+    </g>
   </g>
 </svg>
