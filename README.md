@@ -3,12 +3,12 @@
 
   <br/><br/>
 
-  <a href="https://byluc.in">
+  <a href="https://www.byluc.in/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Fellow+Developer+%26+Open+Source+Creator;Building+Clean%2C+Resilient+Software;Backend+Microservices+%26+APIs;Cross-Platform+Desktop+Developer+(C%23%2C+Swift)" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
-    <a href="https://byluc.in"><img src="https://img.shields.io/badge/Portfolio-byluc.in-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
+    <a href="https://www.byluc.in/"><img src="https://img.shields.io/badge/Portfolio-www.byluc.in-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/aarsh-mishra09/"><img src="https://img.shields.io/badge/LinkedIn-aarsh--mishra09-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:aarshmail@gmail.com"><img src="https://img.shields.io/badge/Email-aarshmail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -22,7 +22,7 @@
 - ⚡ **Backend & Distributed Systems:** Building resilient microservices, robust APIs, and structured data contracts using **Python**, **Java / Spring Boot**, **FastAPI**, and **Node.js**.
 - 🤖 **AI & Agent Systems:** Exploring generative AI pipelines, retrieval-augmented generation (**RAG**), and autonomous agents with **LangChain**, **LangGraph**, and **Google ADK**.
 - ☁️ **Cloud & DevOps:** Production-grade deployments with **Kubernetes**, **Docker**, **AWS**, **GCP**, **ArgoCD**, and **Crossplane**.
-- 🌐 Explore my full interactive digital garden and essays at [**byluc.in**](https://byluc.in).
+- 🌐 Explore my full interactive digital garden and essays at [**www.byluc.in**](https://www.byluc.in/).
 
 ---
 
@@ -48,7 +48,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://byluc.in">
+      <a href="https://www.byluc.in/">
         <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/portfolio-preview.png" width="100%" alt="Interactive Portfolio Preview" style="border-radius: 8px; max-height: 220px; object-fit: cover;" />
       </a>
       <h3 align="center">🌐 <a href="https://github.com/LuC-9/custom-portfolio">Customizable Portfolio</a></h3>
@@ -57,10 +57,10 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <p>A modern, interactive developer portfolio featuring dark mode, gamified bento layouts, sub-second page loads, and dynamic project showcases. Powers <a href="https://byluc.in">byluc.in</a>.</p>
+      <p>A modern, interactive developer portfolio featuring dark mode, gamified bento layouts, sub-second page loads, and dynamic project showcases. Powers <a href="https://www.byluc.in/">www.byluc.in</a>.</p>
       <p align="center">
         <a href="https://github.com/LuC-9/custom-portfolio"><strong>📦 GitHub Repo</strong></a> &nbsp;•&nbsp; 
-        <a href="https://byluc.in"><strong>⚡ Live Site</strong></a>
+        <a href="https://www.byluc.in/"><strong>⚡ Live Site</strong></a>
       </p>
     </td>
   </tr>
@@ -187,7 +187,7 @@
 
 <div align="center">
   <p>💬 Interested in collaborating, building exciting tools, or just connecting? Reach out via <a href="https://www.linkedin.com/in/aarsh-mishra09/"><strong>LinkedIn</strong></a> or <a href="mailto:aarshmail@gmail.com"><strong>Email</strong></a>!</p>
-  <p>✨ <em>Crafted with care by a fellow developer &bull; <a href="https://byluc.in"><strong>Aarsh Mishra</strong></a></em></p>
+  <p>✨ <em>Crafted with care by a fellow developer &bull; <a href="https://www.byluc.in/"><strong>Aarsh Mishra</strong></a></em></p>
 
   <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg?cachebust=smooth_water_waves_v3" width="100%" alt="Footer Wave Divider" />
 </div>
