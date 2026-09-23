@@ -1,5 +1,7 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Aarsh%20Mishra&fontSize=42&fontAlignY=38&desc=Senior%20Platform%20%26%20Systems%20Engineer&descAlignY=55&descAlign=50" width="100%" alt="Aarsh Mishra Header Banner" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/header-banner.svg" width="100%" alt="Aarsh Mishra Header Banner" />
+
+  <br/><br/>
 
   <a href="https://byluc.in">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Senior+Platform+%26+Systems+Engineer+@+Nagarro;Kubernetes+%26+GitOps+Practitioner;High-Throughput+Backend+Microservices+(Go%2C+Java);Cross-Platform+Desktop+Developer+(C%23%2C+Swift);Creator+of+Flip+Clock+Screensaver" alt="Typing SVG Banner" />
@@ -171,5 +173,5 @@
   <p>💬 Interested in collaborating, discussing platform engineering, or just connecting? Reach out via <a href="https://www.linkedin.com/in/aarsh-mishra09/"><strong>LinkedIn</strong></a> or <a href="mailto:aarshmail@gmail.com"><strong>Email</strong></a>!</p>
   <p>✨ <em>Crafted with care by <a href="https://byluc.in"><strong>Aarsh Mishra</strong></a></em></p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" width="100%" alt="Footer Wave Divider" />
+  <img src="https://raw.githubusercontent.com/LuC-9/LuC-9/main/assets/footer-banner.svg" width="100%" alt="Footer Wave Divider" />
 </div>
